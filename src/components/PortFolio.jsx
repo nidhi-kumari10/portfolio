@@ -62,14 +62,8 @@ const Portfolio = () => {
               hover:shadow-[0_0_30px_rgba(255,122,0,0.6)]
               transition"
             >
-              {/* Image */}
-              <div className="overflow-hidden">
-                <img
-                  src={project.image}
-                  alt={project.title}
-                  className="w-full h-52 object-cover hover:scale-110 transition duration-500"
-                />
-              </div>
+           
+             
 
               {/* Content */}
               <div className="p-6 space-y-4">
