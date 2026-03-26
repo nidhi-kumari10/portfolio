@@ -6,7 +6,7 @@ const projects = [
     description:
       "A full-stack MERN application for browsing and managing books with user authentication.",
     tech: ["React", "Node.js", "Express", "MongoDB"],
-    image: "public/bookstore-frontend-sand.vercel.app_.png",
+  
     github: "https://github.com/nidhi-kumari10/bookstore-frontend.git",
     live: "https://bookstore-frontend-5fmpmest1-ndbyahut10-5015s-projects.vercel.app",
   },
@@ -15,7 +15,7 @@ const projects = [
   description:
   "An online shopping web application built with React, allowing users to browse, search, and purchase products with a smooth and responsive user interface. The app provides an intuitive e-commerce experience with organized product listings and seamless navigation.",
   tech: ["React", "JavaScript", "HTML", "CSS"],
-  image: "public/bolbam-store.netlify.app_.png",
+
   github: "https://github.com/nidhi-kumari10/shopping-app",
   live: "https://bolbam-store.netlify.app/",
 },
@@ -24,7 +24,7 @@ const projects = [
   description:
     "A modern web application that allows users to search and explore GitHub profiles in real-time, view key statistics like followers and repositories, and sort results with a fast and responsive interface.",
   tech: ["HTML", "CSS", "JavaScript", "GitHub API"],
-  image: "public/nd-githubprofile.netlify.app_.png",
+
   github: "https://github.com/nidhi-kumari10/github-user-search.git",
   live: "https://nd-githubprofile.netlify.app/",
 },
@@ -33,7 +33,7 @@ const projects = [
   description:
     "A simple and aesthetic note-taking web application built with React and Vite, allowing users to quickly add and delete notes with a fast, responsive, and user-friendly interface.",
   tech: ["React", "Vite", "JavaScript", "HTML", "CSS"],
-  image: "public/screenshot.png",
+ 
   github: "https://github.com/nidhi-kumari10/note-project.git",
   live: "https://ndnoteapp.netlify.app/",
 },
