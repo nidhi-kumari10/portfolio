@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – Nidhi Kumari
+# 🌐 Personal Portfolio – Kumari Nidhi
 
 A modern and responsive **Full Stack Developer Portfolio** built using React and Tailwind CSS. This portfolio showcases my projects, technical skills, and provides a fully functional contact section for easy communication.
 
