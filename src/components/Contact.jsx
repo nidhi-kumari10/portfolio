@@ -64,7 +64,7 @@ const Contact = () => {
     hover:shadow-[0_0_25px_rgba(255,122,0,0.9)]">
               <FaGithub />
             </a>
-            <a href="www.linkedin.com/in/kumari-nidhi-csit" target="_blank"
+            <a href="https://in.linkedin.com/in/kumari-nidhi-csit" target="_blank"
             rel="noopener noreferrer"
     className="p-4 rounded-full bg-[#111]
     hover:text-orange-500
